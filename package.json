@@ -26,5 +26,8 @@
     "nodemon": "^2.0.22",
     "otp-generator": "^4.0.1",
     "python-shell": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
